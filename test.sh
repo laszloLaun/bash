@@ -1,3 +1,3 @@
 #!/bin/bash
 echo Hello World\!
-echo Ready
+echo It is a test.
